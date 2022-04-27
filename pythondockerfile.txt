@@ -1,0 +1,4 @@
+FROM python:latest
+WORKDIR /Users/gauravsajnani/Desktop
+COPY test1.py ./
+CMD ["python3", "test1.py"]

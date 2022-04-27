@@ -1,0 +1,15 @@
+Create a folder 
+Git init 
+Git status 
+Git add. 
+Git status 
+Git commit (-m and quotes if you want message) 
+Git remote add origin link for repo and check if there is .git at the end of it 
+Git remote -v (to check if added) 
+Git branch -m main 
+Git branch (to check the branch) 
+Git push -u origin main 
+(Create a file in GitHub that is not in local) 
+Git branch 
+(To go to branch use git checkout branch)  n
+Git pull 
